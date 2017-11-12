@@ -1,4 +1,4 @@
-#linux-跟着鸟哥学
+# linux-跟着鸟哥学
 ## 常用命令
 1. `sudo su` 切换root权限
 2. `su <username>` 退出root权限
